@@ -21,3 +21,5 @@
                                (_~~   ~~___)\_/ |  
                                (_~~   ~~___)\_/ |   
                                { ~~   ~~   }/ \ l
+
+###Practicing commits, push, and merges
